@@ -1,1 +1,2 @@
-My readme file in shell basic
+#!/bin/bash-Execute a file using the bash shell
+pwd-Print the current working directory of a file
