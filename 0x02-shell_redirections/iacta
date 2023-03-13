@@ -1,0 +1,13 @@
+For many years, the de facto standard for the C programming language was the book The
+C Programming Language, written by Brian Kernighan and Dennis Ritchie in 1978. This
+book is commonly known in the programming community as simply K&R (referring to
+the initials of the authors) and finds a place on many programmers’ bookshelves to this
+day. However, the book was written as a tutorial introduction to C, not as a comprehensive
+or official standard for the language. As different vendors offered varying implementations
+of the C language, differences between those implementations began to appear.
+Fearing that C might lose its portability, a group of compiler vendors and software developers
+petitioned the American National Standards Institute (ANSI) to build a standard for
+the C language in 1983. ANSI approved the application and formed the X3J11 Technical
+Committee to work on the C standard. By the end of 1989, the committee approved the
+ANSI standard for the C programming language.
+ANSI standard for the C programming language.
